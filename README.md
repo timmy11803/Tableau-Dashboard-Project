@@ -3,7 +3,7 @@
 
 
 
-I Assessed and analyzed key sales metrics, including revenue, profit margins, and conversion rates, to gain a comprehensive understanding of overall sales performance.
+Assessed and analyzed key sales metrics, including revenue, profit margins, and conversion rates, to gain a comprehensive understanding of overall sales performance.
 
 Conducted market segmentation analysis to identify high-performing market segments and optimize sales strategies for specific customer demographics.
 
