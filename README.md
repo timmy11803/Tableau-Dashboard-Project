@@ -7,7 +7,7 @@ Assessed and analyzed key sales metrics, including revenue, profit margins, and 
 
 Conducted market segmentation analysis to identify high-performing market segments and optimize sales strategies for specific customer demographics.
 
-Conducted cost-benefit analyses for sales initiatives, ensuring that investments align with revenue goals and contribute positively to overall business profitability.
+Directed cost-benefit analyses for sales initiatives, ensuring that investments align with revenue goals and contribute positively to overall business profitability.
 
 
 ## Acknowledgements
