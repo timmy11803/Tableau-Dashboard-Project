@@ -14,6 +14,10 @@ Directed cost-benefit analyses for sales initiatives, ensuring that investments 
 
  - [Dataset](https://github.com/timmy11803/Tableau-Sales-Performance-Dashboard/blob/main/Regional_Sales%20(1).xlsx)
 
+## Screenshots
+
+<img width="960" alt="Capture 12" src="https://github.com/user-attachments/assets/73abb9eb-589e-41c6-9d7e-fad5df88f0bc">
+
 
 # Hi, I'm Timothy! 👋
 
