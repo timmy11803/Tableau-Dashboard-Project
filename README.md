@@ -39,7 +39,7 @@ Python (Numpy, Pandas, Sci-Kit
 Learn, Keras, Flask),
 SQL (MySQL, Postgres SQL),
 R(Shiny, Ggplot2, Tidyr),
-Git, Regression Models, Text Summarization
+Git, Regression Models
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/timmy11803)
